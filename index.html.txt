@@ -1,0 +1,33 @@
+This is the same specification I just built for you — the complete website already exists and is ready to use. Here are the files again:
+
+index.html
+Preview file
+
+
+style.css
+Preview file
+
+
+script.js
+Preview file
+
+
+favicon.svg
+Preview file
+Quick recap of what the site includes
+Hero — full-screen cinematic background, floating particle canvas, mouse-following glow, glowing "ＫＡＺＩＹＡ ✯" title, subtitle, tagline, and both CTA buttons
+Gallery — masonry layout, 12 images across all 6 categories, working filters, and a keyboard-navigable full-screen lightbox
+About — "Behind The Lens" with framed profile photo and fact cards
+Skills — 7 animated, counting skill bars
+Projects — 6 project cards with thumbnails and buttons
+Contact — fully validated form, email button, Instagram / TikTok / Facebook / WhatsApp links, and a note that a backend or email service is required for delivery
+Navigation — glassmorphism sticky navbar, hamburger mobile menu, smooth scrolling, active-section highlighting
+Premium black/dark-gray theme with electric blue and gold accents, glassmorphism, scroll-reveal animations, custom SVG favicon, SEO meta tags, semantic HTML, and full responsiveness — all in pure HTML5/CSS3/vanilla JS
+How to run locally
+Keep all four files in the same folder.
+Double-click index.html — it opens directly in any browser. No server, build step, or dependencies needed.
+Easy customization
+Replace the picsum.photos image URLs in index.html with your own photo files
+Adjust colors via the CSS variables at the top of style.css
+Connect the form to Formspree or EmailJS inside script.js when you want real message delivery
+If you'd like a second design variation (different layout style, extra sections like a pricing or testimonials area, or a light-mode toggle), just say the word.
